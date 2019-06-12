@@ -22,7 +22,7 @@
 <style>
 div{
 border:1px solid black;
-background-color:lightblue;
+background-color:ivory;
 padding-top:50px;
 padding-right:30px;
 padding-bottom:50px;
