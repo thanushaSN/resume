@@ -12,7 +12,7 @@
 <img src="Desktop/pictures/myphoto.png" alt="profile photo" height="100" width="100">
 </td>
 <td>
-</div>
+
 <h1> THANUSHA SN </h1>
 <p><em>studying 5th sem computer science engg</em> at siddaganga institute of technology,Tumkur</p>
 </td>
